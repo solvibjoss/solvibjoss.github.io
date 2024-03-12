@@ -4,18 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+One of the most important knowledge a person can have is the Periodic Table and that's why I will include it here below.
+Don't thank me, thank the great Russian chemist Dmitri Mendeleev. More info on Dimitri [here](https://en.wikipedia.org/wiki/Dmitri_Mendeleev)
 
 <embed 
        type="text/html" 
@@ -23,5 +13,5 @@ You can find the source code for Jekyll at GitHub:
        width="1100"
        height="600"
        >
-</embed>
+
 
