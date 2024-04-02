@@ -59,3 +59,5 @@ Often these type of crimes happen at nightclubs. From google maps the Southern d
 
 I't seems to be a middle-income district according to numbers from  [this](https://statisticalatlas.com/place/California/San-Francisco/Household-Income) website. It's has a lot of immigrants who migrated from the Latin countries in the 1950's [(More on that here)](https://www.qualityoflife-themovie.com/website/mission.html) so maybe prostitution is more prevalent in the Latino community, something to look into.
 
+Contributions
+Sölvi's focus was on the Calplot, pie and bar chart. Þórir focused on the heat map. They both helped each other on everything.
