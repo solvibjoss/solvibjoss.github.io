@@ -11,16 +11,16 @@ No need to thank me just samsh the like buttun and riiing those bells! Peace Out
 
 <embed 
        type="text/html" 
-       src="/myMusic.html"
+       src="../assets/html/myMusic.html"
        width="700"
        height="700"
        >
-
+assets/html/myMusic.html
 Here you can see a handful of crimes and at what time they are  likely to occur.
 
 <embed 
        type="text/html" 
-       src="/crimesByHour.html"
+       src="../assets/html/crimesByHour.html"
        width="700"
        height="700"
        >

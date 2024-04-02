@@ -9,7 +9,7 @@ Don't thank me, thank the great Russian chemist Dmitri Mendeleev. More info on D
 
 <embed 
        type="text/html" 
-       src="/periodic.html"
+       src="../assets/html/periodic.html"
        width="1100"
        height="600"
        >
