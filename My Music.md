@@ -15,12 +15,18 @@ No need to thank me just samsh the like buttun and riiing those bells! Peace Out
        width="700"
        height="700"
        >
-assets/html/myMusic.html
+
 Here you can see a handful of crimes and at what time they are  likely to occur.
 
 <embed 
        type="text/html" 
        src="../assets/html/crimesByHour.html"
+       width="700"
+       height="700"
+       >
+<embed 
+       type="text/html" 
+       src="../assets/html/Crime_Map.html"
        width="700"
        height="700"
        >
