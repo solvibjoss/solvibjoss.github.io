@@ -18,15 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sölvi Björnsson
-email: s232722@dtu.dk
+title: Sölvi Björnsson & Þórir Lárusson
+email: s232722@dtu.dk s232717@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the awesome homepage of SBmoney99, created at his home and @ hillavanilla's beautiful minimalistic home.
+  This is the homepage of Sölvi and Þórir for their Social Data Analysis and Vizualization
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: s_bjornsson
-github_username:  solvibjoss
-instagram_username: solvibjornsson
+github_username:  solvibjoss thorirlar
 # Build settings
 theme: minima
 plugins:
