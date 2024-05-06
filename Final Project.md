@@ -31,7 +31,8 @@ With that said this is usually reltated to immigration so let's take a look at t
        height="700"
        >
 
-Now We would like to take a look at the ratio between these two maps
+Now We would like to take a look at the ratio between crimes and residents by country
 ![crime][def]
 
 [def]: ../final/png/crime_res_ratio.png
+
