@@ -30,3 +30,8 @@ With that said this is usually reltated to immigration so let's take a look at t
        width="700"
        height="700"
        >
+
+Now We would like to take a look at the ratio between these two maps
+![crime][def]
+
+[def]: ../final/png/crime_res_ratio.png
