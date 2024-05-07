@@ -34,11 +34,15 @@ What catches the eye is that Ukrain is the third most migrated country from.
 It of course has a logical explaination that we are all aware of but it is interesting how drastically the migration has changed in last five years.
 Below we can see a normalized of how much the residents from these countries has grown in last five years. As suspected Ukrain tops the list by almost quadruplling in size since 2019.
 
-![norms][def2]
-[def2]: ../final/png/norm_cange_immi.png
+![norms_def][defa]
 
-Now We would like to take a look at the ratio between crimes and residents by country
+
+
+Now back to the crime data.
+We would like to take a look at the ratio between crimes and residents by country.
 ![crime][def]
 
-[def]: ../final/png/crime_res_ratio.png
+This tells us that Lebanon and Kuwait people have the most trouble with the law. The residents of Lebanon is complicated as it is belived that 2/3 of the immigrants are stateless [Palestians](https://vb.is/skodun/kostnadur-vegna-innflytjenda-danmork-og-sosialistar/)
 
+[def]: ../final/png/crime_res_ratio.png
+[defa]: ../final/png/norm_cange_immi.png
