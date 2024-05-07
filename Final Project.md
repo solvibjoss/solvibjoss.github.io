@@ -3,6 +3,9 @@ layout: page
 title: Final Project
 permalink: /Final Project/
 ---
+# Notebook:
+[HERE!](https://nbviewer.org/github/solvibjoss/solvibjoss.github.io/blob/main/Final_project.ipynb)
+
 # Introduction
 In this notebook, we'll delve into the dynamics of crime in Denmark using a couple of datasets. Firstly, we'll examine the crime rates across different regions, followed by an analysis of population demographics to understand the disparities. Here's the link to the data we've [source](https://www.statbank.dk/10059.)
 
