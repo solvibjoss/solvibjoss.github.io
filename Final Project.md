@@ -4,12 +4,7 @@ title: Final Project
 permalink: /Final Project/
 ---
 Let's go
-<embed 
-       type="text/html" 
-       src="../final//dk_map_crimerate.html"
-       width="700"
-       height="700"
-       >
+
 
 <embed 
        type="text/html" 
@@ -18,11 +13,7 @@ Let's go
        height="700"
        >
 
-Let's take a look at country of orgin for persons guilty of all crimes in 2022
-
-We can see that Poland, Romania, Turkey, Syria, Lebanon and Iraq stand out with over 2.000 crimes committed.
-
-With that said this is usually reltated to immigration so let's take a look at the top 10 immigration countries in Denmark.
+Let's examine the country of origin for individuals found guilty of all crimes in 2022. Notably, Poland, Romania, Turkey, Syria, Lebanon, and Iraq stand out, each with over 2.000 crimes committed. However, it's important to consider that these figures are often related to immigration patterns. Therefore, we will also explore the top 10 source countries for immigration to Denmark to provide further context.
 
 <embed 
        type="text/html" 
@@ -54,6 +45,20 @@ This tells us that Lebanon and Kuwait people have the most trouble with the law 
 Now we are interested to know what type of crimes the two countries have been committing the most.
 ![crime][kule]
 "Road Traffic Act, other" leads as the most frequent crime in both Kuwait and Lebanon. Following closely in both countries are "Shoplifting, etc.," "Euphoriants Act," and "Other special laws," which occupy the next three positions, respectively. However, the fifth most common crime diverges; in Kuwait, it is "Common assault," whereas in Lebanon, it is the "Firearms Act." This indicates notable similarities in the crime patterns of both countries, albeit with some variations in specific types of less frequent crimes.
+
+It is however no surprise that "Road Traffic Act, other" tops the charts since it is also the most frequent crime for Danes.
+
+# Regions in Denmark
+Now we would like to take a closer look at the highest crimes per. population by municipalities of Denmark.
+
+<embed 
+       type="text/html" 
+       src="../final/dk_map_crimerate.html"
+       width="840"
+       height="550"
+       >
+
+Tårnby leads with the highest reported crime to population ratio at 15.43%, followed closely by Copenhagen at 14.17%. Other areas like Glostrup, Herlev, and Hvidovre show lower but significant ratios, demonstrating varied crime distributions relative to their populations.
 
 [kule]: ../final/png/kuw_leb.png
 [def]: ../final/png/crime_res_ratio.png
