@@ -11,7 +11,10 @@ Since we've recently relocated, exploring the crime landscape in Denmark seems l
 ## Reported Crime in Denmark
 Denmark is known as one of the [safest countries](https://studyindenmark.dk/news/copenhagen-ranks-highest-in-the-safe-cities-index-2021#:~:text=A%20new%20report%20by%20the,82.4%20points%20out%20of%20100.) in the world, praised for its peaceful cities and high levels of security. However, even in such a safe place, there's still some crime happening. Let's take a closer look at the crime situation in Denmark to understand how safety and crime can coexist.
 
-Let's start by examining the top 14 reported crimes in Denmark over the last decade. Notably, the number one crime, "Other kinds of theft," has dropped by half. This suggests that improved documentation might be contributing to a decrease in these incidents, since the total number of crimes year-to-year has remained stable. We also observe that bicycle theft ranks as the second most common crime, which aligns with the common advice in Denmark: avoid buying expensive bicycles. Contrarily, bicycle theft is nowhere near the top 20 when it comes to identifying guilty individuals, which indicates that the police rarely manage to identify the perpetrators in these cases. More on guilty persons later.
+Let's start by examining the top 14 reported crimes in Denmark over the last decade. 
+![crime][top14]
+
+Notably, the number one crime, "Other kinds of theft," has dropped by half. This suggests that improved documentation might be contributing to a decrease in these incidents, since the total number of crimes year-to-year has remained stable. We also observe that bicycle theft ranks as the second most common crime, which aligns with the common advice in Denmark: avoid buying expensive bicycles. Contrarily, bicycle theft is nowhere near the top 20 when it comes to identifying guilty individuals, which indicates that the police rarely manage to identify the perpetrators in these cases. More on guilty persons later.
 
 # Regions in Denmark
 Now we would like to take a closer look at the highest crimes per. population by municipalities of Denmark.
@@ -71,16 +74,13 @@ And here is the development for past 14 years.
   Your browser does not support the video tag.
 </video>
 
-What catches the eye is that Ukraine is the third most migrated country from. 
-It of course has a logical explaination that we are all aware of but it is interesting how drastically the migration has changed in last five years.
-Below we can see a normalized of how much the residents from these countries have grown in last five years. As suspected Ukraine tops the list by almost quadrupling in size since 2019.
+What catches the eye is that Ukraine is the third most common country of origin for migrants, which has a logical explanation we are all aware of. However, it is particularly interesting to see how drastically migration has increased over the last five years. Below, we can see a normalized view of how much the number of residents from these countries has grown from 2019, these where the most grown migration countries from 2019. 
 
 ![norms_def][defa]
 
+As suspected, Ukraine tops the list, with the number of migrants almost quadrupling since 2019.In stark contrast, the figures for Danes are at the bottom of the list and have barely changed, reflecting a notably stable migration trend.
 
-
-Now back to the crime data.
-We would like to take a look at the ratio between crimes and residents by country.
+Now back to the crime data. We would like to take a look at the ratio between crimes and residents by country.
 ![crime][def]
 
 This tells us that people from Lebanon and Kuwait have the most trouble with the law, with their crime-resident ratios higher than 20%. The situation of residents in Lebanon is complicated, as it is believed that 2/3 of the immigrants are stateless [Palestinians](https://vb.is/skodun/kostnadur-vegna-innflytjenda-danmork-og-sosialistar/), which may contribute to the complex socio-economic challenges and higher crime rates among this demographic 
@@ -88,12 +88,40 @@ This tells us that people from Lebanon and Kuwait have the most trouble with the
 Now we are interested to know what type of crimes the two countries have been committing the most.
 ![crime][kule]
 
-"Road Traffic Act, other" leads as the most frequent crime in both Kuwait and Lebanon. Following closely in both countries are "Shoplifting, etc.," "Euphoriants Act," and "Other special laws," which occupy the next three positions, respectively. However, the fifth most common crime diverges; in Kuwait, it is "Common assault," whereas in Lebanon, it is the "Firearms Act." This indicates notable similarities in the crime patterns of both countries, albeit with some variations in specific types of less frequent crimes.
+"Road Traffic Act, other" leads as the most frequent crime in both Kuwait and Lebanon. Following closely in both countries are "Shoplifting, etc.," "Euphoriants Act," and "Other special laws," which occupy the next three positions, respectively. However, the fifth most common crime diverges; in Kuwait, it is "Common assault," whereas in Lebanon, it is the "Firearms Act." This indicates notable similarities in the crime patterns of both countries, albeit with some variations in specific types of less frequent crimes. It is however no surprise that "Road Traffic Act, other" tops the charts since it is also the most frequent crime for Danes.
 
-It is however no surprise that "Road Traffic Act, other" tops the charts since it is also the most frequent crime for Danes.
+# Criminal's background and Age distribution
 
+Here we take a look at the Social Status of the criminals
+<embed 
+       type="text/html" 
+       src="../final/socioeconomic_status_criminals.html"
+       width="800"
+       height="420"
+       >
+The graph may not be the most visually striking on the page, but it reveals an interesting insight: the employee ratio among guilty persons is almost identical to the working population of Denmark at 51%
+
+
+And finally, we examine the age distribution of individuals sentenced to more than 8 years in prison.
+![age dist][def2]
+
+This suggests that it might be wise to exercise caution during the ages of 30-39 years old.
+
+Here's a conclusion that ties together the insights and findings from your comprehensive analysis of crime in Denmark:
+
+## Conclusion
+
+This exploration into Denmark's crime landscape has uncovered a complex interplay between various factors such as socioeconomic status, country of origin, age, and types of crimes committed. Despite Denmark's reputation as one of the safest countries globally, we observe distinct regional variations and demographic influences on crime rates. The marked increase in crimes of non-Danish nationals, point towards broader socio-economic and integration challenges.
+
+Our comparative analysis with other Nordic countries reveals that Denmark maintains a low crime rate, although the rise in crime in neighboring countries like Sweden provides a cautionary tale of potential future challenges. The examination of the social status and age distribution of criminals further enriches our understanding, highlighting specific ages and social groups that may require targeted interventions.
+
+In conclusion, while Denmark continues to be a safe and secure place to live, ongoing efforts are needed to address the underlying causes of crime, enhance integration policies, and ensure that the safety net is inclusive for all residents. This comprehensive data-driven approach will not only help in mitigating crime but also in fostering a more inclusive society where safety and security are a shared benefit.
+
+This analysis serves as a foundation for policymakers, law enforcement, and community leaders to strategize more effectively and work collaboratively towards maintaining Denmark's safety and enhancing its social fabric.
 
 [DvsW]: ../final/png/danesvsworld.png
 [kule]: ../final/png/Kuw_leb.png
 [def]: ../final/png/crime_res_ratio.png
 [defa]: ../final/png/norm_cange_immi.png
+[top14]:../final/png/top14reportedCrimes.png
+[def2]: ../final/png/age_dist_O8y.png
